@@ -70,4 +70,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or inquiries, please contact the project maintainers at rithul.v@stag-ai.com
+For any questions or inquiries, please contact the project maintainers at vrithul9@gmail.com
